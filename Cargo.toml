@@ -1,0 +1,8 @@
+[package]
+name = "differential-fuzzer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.2.1"
+csv-parser = "0.1.1"
